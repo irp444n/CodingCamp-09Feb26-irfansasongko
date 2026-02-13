@@ -1,0 +1,26 @@
+.logo {
+    height: 75px;
+    background-color: lightgrey;
+    width: 75px;
+    border-radius: 50%;
+    background-image: url("../image/fotoprib.jpeg");
+    background-size: cover;
+}
+
+header {
+
+    background-color: #bb6f28;
+}
+
+#myportofolio {
+    background-color: aqua;
+}
+
+#about {
+    background-color: lightgreen;
+}
+
+#messageus {
+    background-color: lightpink;
+}
+
